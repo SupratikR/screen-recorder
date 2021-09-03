@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  height: 100%;
+}
+
+video {
+  min-height: 450px !important;
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
